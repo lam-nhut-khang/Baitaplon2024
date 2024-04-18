@@ -1,0 +1,551 @@
+[{
+        "id": 1,
+        "subcategory_id": 1,
+        "name": "MŨ BẢO HIỂM 3/4  M20D",
+        "sold": 6000,
+        "price": 780000,
+        "discount": 20,
+        "colors": ["Đen", "Xanh", "Trắng", "Cam"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ bằng nhựa ABS nguyên sinh - là loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm tiêu chuẩn an toàn cao vỏ thiết bị y tế, dược phẩm, vỏ máy bay.... có độ bền cao và chịu va đập tốt.",
+            "Phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc",
+            "Nón bảo hiểm BHK M20D sở hữu vẻ đẹp huyền bí, sang trọng với những hoạ tiết độc đáo"
+        ],
+        "details": "../img/item/id_1/banner.jpg",
+        "comments": [{
+                "user_name": "Tuấn",
+                "star": 5,
+                "content": "Nón rất đẹp"
+            },
+            {
+                "user_name": "Nhi Ngọc",
+                "star": 4,
+                "content": "Giao hàng nhanh nón đẹp,  mình rất thích lần sau sẽ ủng hộ tiếp"
+            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "subcategory_id": 1,
+        "name": "MŨ BẢO HIỂM 3/4  M139 KÍNH ÂM DESIGN",
+        "sold": 14000,
+        "price": 730000,
+        "discount": 30,
+        "colors": [
+            "Cam",
+            "Đen",
+            "Trắng",
+            "Xanh Ngọc"
+        ],
+
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ nón bảo hiểm  M139 được chế tạo bằng nhựa ABS nguyên sinh - loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm có tiêu chuẩn an toàn cao như vỏ thiết bị y tế, dược phẩm, vỏ máy bay... giúp sản phẩm có độ bền cao và chịu va đập tốt. Royal M139 có trọng lượng chỉ 950g mang đến sự nhẹ nhàng, thoải mái nhưng vẫn đảm bảo được sự an toàn cho người sử dụng.",
+            "Phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, thấm hút mồ hôi rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc. Đây là tính năng đặc biệt phù hợp với khí hậu nhiệt đới của Việt Nam.",
+            "Phần lót nón có thể tháo rời dễ dàng để tiện vệ sinh, mang tới sự sạch sẽ, dễ chịu cho người sử dụng.",
+            "Khóa nón được thiết kế chắc chắn, có khả năng điều chỉnh linh hoạt mang lại cho bạn trải nghiệm dễ chịu nhưng vẫn an toàn khi đội trên mình nón bảo hiểm  M139."
+        ],
+        "comments": [{
+                "user_name": "Phát",
+                "star": 5,
+                "content": "Hàng đẹp xuất sắc, giao hàng nhanh, mua lần thứ 2 rồi vẫn ưng. Sẽ ủng hộ dài"
+            },
+            {
+                "user_name": "Trường",
+                "star": 4,
+                "content": "Mình đã mua sản phẩm này .Chất lượng , cứng cáp , đội vừa đẹp luôn."
+            }
+
+        ]
+    },
+    {
+        "id": 3,
+        "subcategory_id": 1,
+        "name": "MŨ BẢO HIỂM 3/4 M20C DESIGN",
+        "sold": 9500,
+        "price": 630000,
+        "discount": 20,
+        "colors": ["Đen", "Cam", "Trắng", "Xanh_Trắng"],
+
+        "sizes": ["L", "XL"],
+        "characteristics": [
+            "Vỏ bằng nhựa ABS nguyên sinh - là loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm tiêu chuẩn an toàn cao vỏ thiết bị y tế, dược phẩm, vỏ máy bay.... có độ bền cao và chịu va đập tốt.",
+            "Phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc",
+            "Nón bảo hiểm BHK M20D sở hữu vẻ đẹp huyền bí, sang trọng với những hoạ tiết độc đáo"
+        ],
+        "comments": [{
+                "user_name": "Hồng",
+                "star": 5,
+                "content": "Đẹp"
+            },
+            {
+                "user_name": "Nam",
+                "star": 4,
+                "content": "Đã mua 2 cái, nón rất chất lượng."
+            },
+            {
+                "user_name": "Cảnh Thanh",
+                "star": 5,
+                "content": "Cả gia đình tin dùng Yody. Khá là oke nha."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "subcategory_id": 1,
+        "name": "MŨ BẢO HIỂM 3/4 M268 TRƠN - 2 KÍNH",
+        "sold": 21000,
+
+        "price": 640000,
+        "discount": 10,
+        "colors": [
+            "Đen",
+            "Đỏ",
+            "Trắng",
+            "Xanh Ngọc"
+        ],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ nón bảo hiểm  M268 trơn được chế tạo bằng nhựa ABS nguyên sinh - loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm có tiêu chuẩn an toàn cao như vỏ thiết bị y tế, dược phẩm, vỏ máy bay... giúp sản phẩm có độ bền cao và chịu va đập tốt. Royal M139 có trọng lượng chỉ 950g mang đến sự nhẹ nhàng, thoải mái nhưng vẫn đảm bảo được sự an toàn cho người sử dụng.",
+            "Phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, thấm hút mồ hôi rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc. Đây là tính năng đặc biệt phù hợp với khí hậu nhiệt đới của Việt Nam.",
+            "Phần lót nón có thể tháo rời dễ dàng để tiện vệ sinh, mang tới sự sạch sẽ, dễ chịu cho người sử dụng.",
+            "Khóa nón được thiết kế chắc chắn, có khả năng điều chỉnh linh hoạt mang lại cho bạn trải nghiệm dễ chịu nhưng vẫn an toàn khi đội trên mình nón bảo hiểm  M268 trơn."
+        ],
+        "comments": [{
+                "user_name": "Hòa",
+                "star": 5,
+                "content": "Sản phẩm đẹp, phù hợp cho nhiều lứa tuổi."
+            },
+            {
+                "user_name": "Nguyễn Văn Long",
+                "star": 4,
+                "content": "Sản phẩm chất lượng , cho 5 sao"
+            },
+            {
+                "user_name": "Mạnh Hùng",
+                "star": 5,
+                "content": "Nón đẹp kkkk"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "subcategory_id": 2,
+        "name": "MŨ BẢO HIỂM 1/2 ĐẦU M152K",
+        "sold": 1000,
+        "price": 400000,
+        "discount": 20,
+        "colors": [
+            "Đen",
+            "Đỏ",
+            "Xám",
+            "Xanh"
+        ],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Mũ bảo hiểm  M152K siêu phẩm mũ bảo hiểm 1/2 đầu mới nhất của Helmet",
+            "Royal Helmet vừa cho ra mắt dòng mũ bảo hiểm 1/2 với nhiều tính năng làm nức lòng người sử dụng ",
+            "Chất sơn cao cấp được xử lý qua công nghệ nên độ bám dính tốt, hạn chế trầy xước, tăng tính thẩm mỹ cho chiếc mũ bảo hiểm. ",
+            "Lớp kính trong suốt, có bề mặt rộng, thời trang bảo vệ người đội khỏi dị vật, bụi bẩn tên mọi cung đường."
+        ],
+        "comments": []
+    },
+
+
+    {
+        "id": 6,
+        "subcategory_id": 2,
+        "name": "MŨ BẢO HIỂM 1/2 ĐẦU M152LT",
+        "sold": 0,
+        "price": 380000,
+        "discount": 0,
+        "colors": ["Đen", "Đỏ", "Xanh"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Mũ bảo hiểm  M152LT siêu phẩm mũ bảo hiểm 1/2 đầu mới nhất của  Helmet",
+            "Royal Helmet vừa cho ra mắt dòng mũ bảo hiểm 1/2 với nhiều tính năng làm nức lòng người sử dụng ",
+            "Chất sơn cao cấp được xử lý qua công nghệ nên độ bám dính tốt, hạn chế trầy xước, tăng tính thẩm mỹ cho chiếc mũ bảo hiểm. ",
+            "Lớp kính trong suốt, có bề mặt rộng, thời trang bảo vệ người đội khỏi dị vật, bụi bẩn tên mọi cung đường."
+        ],
+        "comments": []
+    },
+    {
+        "id": 7,
+        "subcategory_id": 2,
+        "name": "MŨ BẢO HIỂM 1/2 ĐẦU M379",
+        "sold": 0,
+        "price": 270000,
+        "discount": 0,
+        "colors": ["Cam", "Đen", "Trắng", "Đen_Bóng"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Mũ bảo hiểm M379 siêu phẩm mũ bảo hiểm 1/2 đầu mới nhất của  Helmet",
+            "Royal Helmet vừa cho ra mắt dòng mũ bảo hiểm 1/2 với nhiều tính năng làm nức lòng người sử dụng ",
+            "Chất sơn cao cấp được xử lý qua công nghệ nên độ bám dính tốt, hạn chế trầy xước, tăng tính thẩm mỹ cho chiếc mũ bảo hiểm. ",
+            "Lớp kính trong suốt, có bề mặt rộng, thời trang bảo vệ người đội khỏi dị vật, bụi bẩn tên mọi cung đường."
+        ],
+        "comments": []
+    },
+    {
+        "id": 8,
+        "subcategory_id": 2,
+        "name": "MŨ BẢO HIỂM 1/2 ĐẦU  M154",
+        "sold": 0,
+        "price": 320000,
+        "discount": 30,
+        "colors": ["Đen", "Hồng", "Trắng", "Xanh"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Mũ bảo hiểm  M154 siêu phẩm mũ bảo hiểm 1/2 đầu mới nhất của  Helmet",
+            "Royal Helmet vừa cho ra mắt dòng mũ bảo hiểm 1/2 với nhiều tính năng làm nức lòng người sử dụng ",
+            "Chất sơn cao cấp được xử lý qua công nghệ nên độ bám dính tốt, hạn chế trầy xước, tăng tính thẩm mỹ cho chiếc mũ bảo hiểm. ",
+            "Lớp kính trong suốt, có bề mặt rộng, thời trang bảo vệ người đội khỏi dị vật, bụi bẩn tên mọi cung đường."
+        ],
+        "comments": []
+    },
+
+    {
+        "id": 9,
+        "subcategory_id": 3,
+        "name": "MŨ BẢO HIỂM FULLFACE M141K",
+        "sold": 9700,
+        "price": 1210000,
+        "discount": 20,
+        "colors": [
+            "Đen",
+            "Trắng",
+            "Vàng",
+            "Xám"
+        ],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ bằng nhựa ABS nguyên sinh - là loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm tiêu chuẩn an toàn cao vỏ thiết bị y tế, dược phẩm, vỏ máy bay.... có độ bền cao và chịu va đập tốt.",
+            "Phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc",
+            "Vẻ đẹp huyền bí, sang trọng với những hoạ tiết độc đáo. ",
+            "Trọng lượng: 1200g ± 50g - size L: 56 - 57cm  - size XL: 58 - 59cm "
+        ],
+        "comments": [{
+            "user_name": "nhanshop2013",
+            "star": 5,
+            "content": "Hàng nên mua. Quá ok. Quá chất lượng"
+        }]
+    },
+
+    {
+        "id": 10,
+        "subcategory_id": 3,
+        "name": "MŨ BẢO HIỂM FULLFACE 2 KÍNH  M266 DESIGN",
+        "sold": 14000,
+        "price": 760000,
+        "discount": 0,
+        "colors": ["Cam", "Đỏ", "Đỏ_đen", "Xanh"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ bằng nhựa ABS nguyên sinh - là loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm tiêu chuẩn an toàn cao vỏ thiết bị y tế, dược phẩm, vỏ máy bay.... có độ bền cao và chịu va đập tốt.",
+            "Phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc",
+            "Vẻ đẹp huyền bí, sang trọng với những hoạ tiết độc đáo. "
+        ],
+        "comments": [{
+                "user_name": "nguyenhang_1977.2019",
+                "star": 5,
+                "content": "Quá đẹp cho 5 sao"
+            },
+            {
+                "user_name": "tuananhvphd",
+                "star": 5,
+                "content": "đã mua"
+            }
+        ]
+    },
+
+    {
+        "id": 11,
+        "subcategory_id": 3,
+        "name": "MŨ BẢO HIỂM FULLFACE 2 KÍNH L M266 TRƠN",
+        "sold": 27000,
+        "price": 720000,
+        "discount": 0,
+        "colors": [
+            "Xám",
+            "Đen Bóng",
+            "Đen"
+
+
+        ],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Nón bảo hiểm M266 với thiết kế bao trùm toàn bộ vùng đầu, tai và mặt, phía trước có kính chắn bụi, là loại mũ vô cùng thích hợp cho các bạn phượt thủ thích đi xa, thích trải nghiệm.",
+            "Vỏ ngoài được làm bằng hạt nhựa ABS bao chịu va đập mạnh và tránh trầy xước, độ bền cao. Bên trong có mút xốp làm bằng nhựa EPS giúp hạn chế các tác nhân bên ngoài tác động vào.",
+            "Quai mũ dệt 2 lớp bằng sợi tổng hợp, chịu lực kéo tốt, thao tác cực dễ dàng khi sử dụng. Kính che bụi sử dụng nhựa PC và xử lý nano theo công nghệ Đức. Có khả năng hạn chế vỡ, trầy xước, chống tia UV, nâng lên hạ xuống dễ dàng, cho hình ảnh chân thật cao, an toàn trên mọi nẻo đường.",
+            "Vải lót dày sử dụng nguyên liệu thấm hút cao giúp cho người dùng thoải mái, không bí bách, còn có khe thông gió luôn tạo cảm giác thoáng mát khi đội."
+
+        ],
+        "comments": [{
+                "user_name": "QUỳnh",
+                "star": 5,
+                "content": "Sản phẩm hoàn hảo"
+            },
+            {
+                "user_name": "Có thể",
+                "star": 5,
+                "content": "Sản phẩm phù hợp với giá tiền"
+            },
+            {
+                "user_name": "Minh Tuyết",
+                "star": 5,
+                "content": "Sản phẩm tốt. Chất lượng cao. Hàng y hình. Mình rất ưng ý ạ. Sẽ mua lại"
+            }
+        ]
+    },
+
+    {
+        "id": 12,
+        "subcategory_id": 3,
+        "name": "MŨ BẢO HIỂM FULLFACE  M136 DESIGN",
+        "sold": 9600,
+        "price": 620000,
+        "discount": 0,
+        "colors": [
+            "Đỏ",
+            "Vàng",
+            "Xanh",
+            "Xanh Lá"
+
+        ],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Nón bảo hiểm  M266 với thiết kế bao trùm toàn bộ vùng đầu, tai và mặt, phía trước có kính chắn bụi, là loại mũ vô cùng thích hợp cho các bạn phượt thủ thích đi xa, thích trải nghiệm.",
+            "Vỏ ngoài được làm bằng hạt nhựa ABS bao chịu va đập mạnh và tránh trầy xước, độ bền cao. Bên trong có mút xốp làm bằng nhựa EPS giúp hạn chế các tác nhân bên ngoài tác động vào.",
+            "Quai mũ dệt 2 lớp bằng sợi tổng hợp, chịu lực kéo tốt, thao tác cực dễ dàng khi sử dụng. Kính che bụi sử dụng nhựa PC và xử lý nano theo công nghệ Đức. Có khả năng hạn chế vỡ, trầy xước, chống tia UV, nâng lên hạ xuống dễ dàng, cho hình ảnh chân thật cao, an toàn trên mọi nẻo đường.",
+            "Vải lót dày sử dụng nguyên liệu thấm hút cao giúp cho người dùng thoải mái, không bí bách, còn có khe thông gió luôn tạo cảm giác thoáng mát khi đội."
+
+        ],
+        "comments": [{
+                "user_name": "tienanhtrann",
+                "star": 5,
+                "content": "Nó quá đẹp :)))"
+            },
+            {
+                "user_name": "catanh020314",
+                "star": 5,
+                "content": "Hàng chất lượng nên mua"
+            }
+        ]
+    },
+
+    {
+        "id": 13,
+        "subcategory_id": 4,
+        "name": "MŨ BẢO HIỂM LẬT CẰM  M179 DESIGN",
+        "sold": 0,
+        "price": 745000,
+        "discount": 10,
+        "colors": ["Cam", "Đỏ", "Xanh", "Xanh Dương"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ bằng nhựa ABS nguyên sinh – là loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm tiêu chuẩn an toàn cao vỏ thiết bị y tế, dược phẩm, vỏ máy bay…. có độ bền cao và chịu va đập tốt.",
+            "Miếng lót bên trong nón có thể được tháo rời giúp việc vệ sinh dễ dàng. Ngoài ra phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc",
+            "Thiết kế cằm lật độc đáo, dễ dàng tùy biến thành 1 chiếc mũ 3/4 tiện dụng"
+
+        ],
+        "comments": []
+    },
+    {
+        "id": 14,
+        "subcategory_id": 4,
+        "name": "MŨ BẢO HIỂM LẬT CẰM M179",
+        "sold": 0,
+        "price": 710000,
+        "discount": 0,
+        "colors": ["Đen", "Đen Nhám ", "Rêu", "Xanh"],
+        "sizes": ["M", "L", "XL"],
+        "characteristics": [
+            "Vỏ bằng nhựa ABS nguyên sinh là loại nhựa tinh khiết chưa qua sử dụng, được sử dụng cho các sản phẩm tiêu chuẩn an toàn cao vỏ thiết bị y tế, dược phẩm, vỏ máy bay…. có độ bền cao và chịu va đập tốt.",
+            "Miếng lót bên trong nón có thể được tháo rời giúp việc vệ sinh dễ dàng. Ngoài ra phần đệm lót bên trong nón còn có lớp vải kháng khuẩn, chống ẩm, rất tốt cho việc bảo vệ chiếc nón khỏi mùi hôi, ẩm mốc",
+            "Thiết kế cằm lật độc đáo, dễ dàng tùy biến thành 1 chiếc mũ 3/4 tiện dụng"
+
+        ],
+        "comments": []
+    },
+
+    {
+        "id": 15,
+        "subcategory_id": 5,
+        "name": "MŨ BẢO HIỂM XE ĐẠP  MD-15 DESIGN",
+        "sold": 8600,
+        "price": 550000,
+        "discount": 10,
+        "colors": ["Cam", "Đen", "Trắng", "Xanh"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Với nhiều rãnh thoát khí chạy dọc theo thân nón, mang lại sự thanh thoát, năng động, mạnh mẽ, nhẹ nhàng cho người sử dụng.",
+            "Lớp đệm Poly Source cao cấp được nén dưới áp suất cao, giúp hấp thu xung động va đập tối ưu cùng với hệ thống khoá vòng đầu cao cấp mang lại cho các vận động viên sự thoải mái, an toàn khi thi đấu với cường độ cao.",
+            "Ngoài ra các vỏ nón được thiết kế tinh xảo tạo phong cách mạnh mẽ, bức phá cho các vận động viên."
+        ],
+        "comments": []
+    },
+
+    {
+        "id": 16,
+        "subcategory_id": 5,
+        "name": "MŨ BẢO HIỂM XE ĐẠP KÍNH HÍT ROYAL MD-16 TRƠN",
+        "sold": 8600,
+        "price": 550000,
+        "discount": 0,
+        "colors": ["Đen", "Trắng", "Xám", "Xanh"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Với nhiều rãnh thoát khí chạy dọc theo thân nón, mang lại sự thanh thoát, năng động, mạnh mẽ, nhẹ nhàng cho người sử dụng.",
+            "Lớp đệm Poly Source cao cấp được nén dưới áp suất cao, giúp hấp thu xung động va đập tối ưu cùng với hệ thống khoá vòng đầu cao cấp mang lại cho các vận động viên sự thoải mái, an toàn khi thi đấu với cường độ cao.",
+            "Ngoài ra các vỏ nón được thiết kế tinh xảo tạo phong cách mạnh mẽ, bức phá cho các vận động viên."
+        ],
+        "comments": []
+    },
+    {
+        "id": 17,
+        "subcategory_id": 5,
+        "name": "MŨ BẢO HIỂM XE ĐẠP MD-17",
+        "sold": 8600,
+        "price": 450000,
+        "discount": 0,
+        "colors": ["Đen", "Trắng", "Hồng", "Vàng"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Với nhiều rãnh thoát khí chạy dọc theo thân nón, mang lại sự thanh thoát, năng động, mạnh mẽ, nhẹ nhàng cho người sử dụng.",
+            "Lớp đệm Poly Source cao cấp được nén dưới áp suất cao, giúp hấp thu xung động va đập tối ưu cùng với hệ thống khoá vòng đầu cao cấp mang lại cho các vận động viên sự thoải mái, an toàn khi thi đấu với cường độ cao.",
+            "Ngoài ra các vỏ nón được thiết kế tinh xảo tạo phong cách mạnh mẽ, bức phá cho các vận động viên."
+        ],
+        "comments": []
+    },
+    {
+        "id": 18,
+        "subcategory_id": 5,
+        "name": "MŨ BẢO HIỂM XE ĐẠP MD-07",
+        "sold": 8600,
+        "price": 390000,
+        "discount": 0,
+        "colors": ["Đen", "Trắng", "Xám", "Cam"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Với nhiều rãnh thoát khí chạy dọc theo thân nón, mang lại sự thanh thoát, năng động, mạnh mẽ, nhẹ nhàng cho người sử dụng.",
+            "Lớp đệm Poly Source cao cấp được nén dưới áp suất cao, giúp hấp thu xung động va đập tối ưu cùng với hệ thống khoá vòng đầu cao cấp mang lại cho các vận động viên sự thoải mái, an toàn khi thi đấu với cường độ cao.",
+            "Ngoài ra các vỏ nón được thiết kế tinh xảo tạo phong cách mạnh mẽ, bức phá cho các vận động viên."
+        ],
+        "comments": []
+    },
+    {
+        "id": 19,
+        "subcategory_id": 6,
+        "name": "MŨ BẢO HIỂM 3/4 ĐẦU TRẺ EM M139 KID - KÍNH ÂM",
+        "sold": 1200,
+        "price": 580000,
+        "discount": 10,
+        "colors": ["Xanh", "Vàng", "Đỏ", "Cam"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Là dòng sản phẩm dành cho trẻ em,  mũ bảo hiểm Royal M139 Kid là sản phẩm được đội ngũ nghiên cứu và phát triển sản phẩm của Royal Helmet đặt rất nhiều tâm sức.",
+            "Kính của Royal M139 Kid được xử lý bằng công nghệ Nano có khả năng chống bám bụi, chống trầy xước,chống ố nhòa khi gặp khí lạnh. Đặc biệt, loại kính này không gây tật cận thị và nhức mắt. Đây là một tính năng vô cùng quan trọng mà Royal M139 Kid tạo ra để bảo vệ thị lực còn non nớt của các bé,",
+            "Ruột nón của mũ bảo hiểm M139 Kid được làm từ xốp non EPS ép cứng trong tỉ trọng cao giúp giảm xung động vùng đầu hiệu quả. Lớp xốp đặc biệt này kết hợp cùng vỏ nhựa ABS góp phần quan trọng để bảo vệ các bé khi không may xảy ra va chạm."
+        ],
+        "comments": [{
+            "user_name": "Hoàng thị vân",
+            "star": 5,
+            "content": "Áo chất đẹp lên from chuẩn"
+        }]
+    },
+
+    {
+        "id": 20,
+        "subcategory_id": 6,
+        "name": "MŨ BẢO HIỂM 3/4 TRẺ EM ROYAL M20KS",
+        "sold": 2200,
+        "price": 420000,
+        "discount": 10,
+        "colors": ["Đỏ", "Hồng", "Vàng", "Xanh"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Là dòng sản phẩm dành cho trẻ em,  mũ bảo hiểm Royal M139 Kid là sản phẩm được đội ngũ nghiên cứu và phát triển sản phẩm của Royal Helmet đặt rất nhiều tâm sức.",
+            "Kính của Royal M139 Kid được xử lý bằng công nghệ Nano có khả năng chống bám bụi, chống trầy xước,chống ố nhòa khi gặp khí lạnh. Đặc biệt, loại kính này không gây tật cận thị và nhức mắt. Đây là một tính năng vô cùng quan trọng mà Royal M139 Kid tạo ra để bảo vệ thị lực còn non nớt của các bé,",
+            "Ruột nón của mũ bảo hiểm M139 Kid được làm từ xốp non EPS ép cứng trong tỉ trọng cao giúp giảm xung động vùng đầu hiệu quả. Lớp xốp đặc biệt này kết hợp cùng vỏ nhựa ABS góp phần quan trọng để bảo vệ các bé khi không may xảy ra va chạm."
+        ],
+        "comments": [{
+            "user_name": "Nguyễn Thị Phượng",
+            "star": 5,
+            "content": "Sản phẩm dùng rất thích"
+        }]
+    },
+
+    {
+        "id": 21,
+        "subcategory_id": 7,
+        "name": "KÍNH MŨ BẢO HIỂM BO",
+        "sold": 9100,
+        "price": 160000,
+        "discount": 0,
+        "colors": ["Nâu", "Trắng", "Vàng"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Chất liệu: PolyCacbonat",
+            " Kính có màu trắng trong giúp người dùng rõ mắt khi đi trời nắng, không bị hạn chế khả năng nhìn khi đi trong đêm.",
+            "Được sản xuất với công nghệ hiện đại giúp cho hình ảnh chuẩn không hại mắt, hạn chế tối đa khả năng oxi hóa nhựa do thời tiết đảm bảo cho kính giữ được độ trong trên 2 năm sử dụng.",
+            "Có tác dụng bảo vệ mắt trong điều kiện mưa gió , bụi đường, chống côn trùng."
+        ],
+        "comments": [{
+                "user_name": "tiendat9966",
+                "star": 5,
+                "content": " Nói chung bộ này mua về rất ưng ý luôn, rất đáng tiền. Giao hàng nhanh. 5 sao nhá shop 🥰"
+            },
+
+            {
+                "user_name": "huyenmeo555",
+                "star": 5,
+                "content": "Màu đẹp. ship hơi lâu nhưng vải dày dặn nên bỏ qua. "
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "subcategory_id": 7,
+        "name": "KÍNH MŨ BẢO HIỂM THẲNG",
+        "sold": 2200,
+        "price": 140000,
+        "discount": 10,
+        "colors": ["Trắng", "Vàng", "Nâu"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Chất liệu: PolyCacbonat",
+            " Kính có màu trắng trong giúp người dùng rõ mắt khi đi trời nắng, không bị hạn chế khả năng nhìn khi đi trong đêm.",
+            "Được sản xuất với công nghệ hiện đại giúp cho hình ảnh chuẩn không hại mắt, hạn chế tối đa khả năng oxi hóa nhựa do thời tiết đảm bảo cho kính giữ được độ trong trên 2 năm sử dụng.",
+            "Có tác dụng bảo vệ mắt trong điều kiện mưa gió , bụi đường, chống côn trùng."
+        ]
+
+    },
+    {
+        "id": 23,
+        "subcategory_id": 7,
+        "name": "KÍNH MŨ BẢO HIỂM DÂY",
+        "sold": 2200,
+        "price": 70000,
+        "discount": 10,
+        "colors": ["Trắng", "Vàng", "Màu"],
+        "sizes": ["M", "L"],
+        "characteristics": [
+            "Chất liệu: PolyCacbonat",
+            " Kính có màu trắng trong giúp người dùng rõ mắt khi đi trời nắng, không bị hạn chế khả năng nhìn khi đi trong đêm.",
+            "Được sản xuất với công nghệ hiện đại giúp cho hình ảnh chuẩn không hại mắt, hạn chế tối đa khả năng oxi hóa nhựa do thời tiết đảm bảo cho kính giữ được độ trong trên 2 năm sử dụng.",
+            "Có tác dụng bảo vệ mắt trong điều kiện mưa gió , bụi đường, chống côn trùng."
+        ],
+        "comments": [{
+            "user_name": "Nguyễn Thị Phượng",
+            "star": 5,
+            "content": "Sản phẩm dùng rất thích"
+        }]
+    }
+
+
+
+
+]

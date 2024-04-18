@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sub category</title>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="../img/shared/favicon.png" type="image/x-icon" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="../css/shared.css" />
+  <link rel="stylesheet" href="../css/category.css">
+</head>
+
+<body>
+  <header id="header"></header>
+
+  <main>
+    <section class="heading container pt-4 pb-4 mx-auto" id="js-breadcrumb">
+
+    </section>
+
+    <section class="category container">
+      <div class="row" style="--bs-gutter-x: 1rem;">
+        <div class="col col-12 col-lg-2 pt-4 position-relative">
+          <div class="filter d-flex flex-column gap-4 mb-4 position-sticky">
+            <div class=" filter__type">
+              <h4 class="filter__heading">
+                <i class="fa-solid fa-layer-group fa-beat me-2" style="color: var(--main-color);"></i>
+                Loại sản phẩm
+              </h4>
+              <div class="filter__list" id="js-filter-list">
+              </div>
+            </div>
+            <div class="filter__size">
+              <h4 class="filter__heading"><i class="fa-solid fa-maximize fa-beat me-2"
+                  style="color: var(--main-color);"></i>
+                Kích thước</h4>
+              <div class="filter__list" id="js-filter-size">
+              </div>
+            </div>
+            <button class="main-button text-14 position-relative" id="js-clear-all-btn"><i
+                class="fa-solid fa-rotate fa-spin me-2 position-absolute" style="top: 32%; left: 8px;"></i> Loại bỏ tất
+              cả bộ lọc</button>
+
+          </div>
+        </div>
+        <div class="col col-12 col-lg-10 pb-4">
+          <section class="sort container d-flex align-items-center justify-content-between fw-medium mb-2 p-0 p-lg-3 ">
+            <span class="quantity" id="js-quantity-item" style="color:var(--violet-gray)"></span>
+            <div class="d-flex">
+              <div class="d-flex align-items-center">
+                <span class="me-2 d-none d-md-inline">
+                  <i class="fa-solid fa-filter fa-beat me-1" style="color: #fea916;"></i> Sắp xếp theo
+                </span>
+                <select name="" id="js-filter-sort" class="form-select p-2 fw-medium rounded-end-0"
+                  style="width: 230px;">
+                </select>
+              </div>
+            </div>
+          </section>
+          <div class="product-list row ms-md-2 pb-4 gx-2 justify-content-start" id="js-product-list">
+          </div>
+          <hr>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="footer"></footer>
+
+  <!-- JS -->
+  <script src="../js/shared.js" type="module"></script>
+  <script src="../js/category.js" type="module"></script>
+</body>
+
+</html>

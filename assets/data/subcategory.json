@@ -1,0 +1,41 @@
+[{
+        "id": 1,
+        "category_id": 1,
+        "name": "Mũ bảo hiểm 3/4 đầu"
+
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "name": "Mũ bảo hiểm 1/2 đầu"
+
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "name": "Mũ bảo hiểm Fullface"
+
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "name": "Mũ bảo hiểm lật cằm"
+
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "name": "Mũ bảo hiểm xe đạp"
+    },
+    {
+        "id": 6,
+        "category_id": 1,
+        "name": "Mũ bảo hiểm trẻ em"
+
+    },
+    {
+        "id": 7,
+        "category_id": 1,
+        "name": "Kính mũ bảo hiểm "
+    }
+]
